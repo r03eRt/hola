@@ -56,7 +56,8 @@ public class MainActivity extends ActionBarActivity {
 		public View onCreateView(LayoutInflater inflater, ViewGroup container,
 				Bundle savedInstanceState) {
 			View rootView = inflater.inflate(R.layout.fragment_main, container,
-					false);
+					false);////
+			////
 			return rootView;
 		}
 	}
